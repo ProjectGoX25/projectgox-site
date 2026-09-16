@@ -1,4 +1,5 @@
 ProjectGoX deploy trigger
-Triggered from ChatGPT on 2026-09-17 Australia/Brisbane.
+Triggered from ChatGPT on 2026-09-17 02:04 Australia/Brisbane.
 Purpose: force a fresh Cloudflare production deployment from the current main branch.
-Target commit: 4d1f47e62c2c8df5ff5eaef2c336a84e2ea2bdfa
+Target commit before trigger: 50c18ea1c431a91f7a5eab78271947c654b98cb6
+Note: www.projectgox.com verified live; apex projectgox.com still needs Cloudflare Access policy disabled or bypassed.
