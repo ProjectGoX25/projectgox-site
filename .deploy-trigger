@@ -1,3 +1,4 @@
 ProjectGoX deploy trigger
-Triggered from ChatGPT on 2026-05-12 Australia/Brisbane.
-Purpose: force a fresh Pages deployment from the current main branch.
+Triggered from ChatGPT on 2026-09-17 Australia/Brisbane.
+Purpose: force a fresh Cloudflare production deployment from the current main branch.
+Target commit: 4d1f47e62c2c8df5ff5eaef2c336a84e2ea2bdfa
